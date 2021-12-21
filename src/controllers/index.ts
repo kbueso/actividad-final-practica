@@ -6,4 +6,6 @@ export * from './rutas.controller';
 export * from './tipovehiculo.controller';
 export * from './transportistas.controller';
 export * from './vehiculos.controller';
-
+export * from './licencias-transportistas.controller';
+export * from './posiciones-rutas.controller';
+export * from './tipovehiculo-vehiculos.controller';
